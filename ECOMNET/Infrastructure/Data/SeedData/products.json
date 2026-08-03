@@ -1,0 +1,164 @@
+[
+  {
+    "Name": "Classic Stainless Steel Wristwatch",
+    "Description": "A stainless-steel analog wristwatch with a clean dial, durable case, and adjustable metal bracelet. Suitable for everyday and formal wear.",
+    "Price": 89.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+    "Type": "Watches",
+    "Brand": "Timex",
+    "QuantityInStock": 24
+  },
+  {
+    "Name": "Wireless Over-Ear Headphones",
+    "Description": "Comfortable wireless headphones with cushioned ear cups, built-in microphone, and long battery life for music, calls, and study.",
+    "Price": 79.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+    "Type": "Audio",
+    "Brand": "Sony",
+    "QuantityInStock": 31
+  },
+  {
+    "Name": "Modern Smartphone",
+    "Description": "A modern smartphone with a large display, high-resolution camera, fast processor, and all-day battery for everyday communication and media.",
+    "Price": 499.0,
+    "PictureUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?auto=format&fit=crop&w=900&q=80",
+    "Type": "Smartphones",
+    "Brand": "Samsung",
+    "QuantityInStock": 18
+  },
+  {
+    "Name": "Slim Business Laptop",
+    "Description": "A lightweight business laptop with a full-size keyboard, fast solid-state storage, and a sharp display for programming, office work, and study.",
+    "Price": 899.0,
+    "PictureUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=900&q=80",
+    "Type": "Laptops",
+    "Brand": "Lenovo",
+    "QuantityInStock": 12
+  },
+  {
+    "Name": "Mirrorless Digital Camera",
+    "Description": "A compact mirrorless camera designed for travel and everyday photography, with interchangeable lenses and high-quality image capture.",
+    "Price": 649.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1526170375885-4d8ecf77b99f?auto=format&fit=crop&w=900&q=80",
+    "Type": "Cameras",
+    "Brand": "Fujifilm",
+    "QuantityInStock": 9
+  },
+  {
+    "Name": "Red Running Shoes",
+    "Description": "Lightweight running shoes with breathable fabric, cushioned soles, and a flexible design suitable for walking, training, and daily wear.",
+    "Price": 74.5,
+    "PictureUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?auto=format&fit=crop&w=900&q=80",
+    "Type": "Shoes",
+    "Brand": "Nike",
+    "QuantityInStock": 42
+  },
+  {
+    "Name": "Casual White Sneakers",
+    "Description": "Versatile low-top sneakers with a clean white finish and comfortable rubber sole, suitable for casual outfits and everyday use.",
+    "Price": 59.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?auto=format&fit=crop&w=900&q=80",
+    "Type": "Shoes",
+    "Brand": "Converse",
+    "QuantityInStock": 36
+  },
+  {
+    "Name": "Premium Lifestyle Sneakers",
+    "Description": "Comfortable lifestyle sneakers with supportive cushioning, durable construction, and a modern design for daily walking and casual wear.",
+    "Price": 109.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1539185441755-769473a23570?auto=format&fit=crop&w=900&q=80",
+    "Type": "Shoes",
+    "Brand": "New Balance",
+    "QuantityInStock": 21
+  },
+  {
+    "Name": "Minimal Cotton T-Shirt",
+    "Description": "A soft cotton crew-neck T-shirt with a simple cut, breathable fabric, and comfortable fit for everyday casual wear.",
+    "Price": 19.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
+    "Type": "Clothing",
+    "Brand": "Hanes",
+    "QuantityInStock": 68
+  },
+  {
+    "Name": "Leather Handbag",
+    "Description": "A structured leather handbag with sturdy handles, practical interior storage, and a classic design for work and everyday use.",
+    "Price": 129.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?auto=format&fit=crop&w=900&q=80",
+    "Type": "Bags",
+    "Brand": "Fossil",
+    "QuantityInStock": 16
+  },
+  {
+    "Name": "Elegant Eau de Parfum",
+    "Description": "A refined eau de parfum presented in an elegant glass bottle, suitable for daily use and special occasions.",
+    "Price": 69.0,
+    "PictureUrl": "https://images.unsplash.com/photo-1585386959984-a4155224a1ad?auto=format&fit=crop&w=900&q=80",
+    "Type": "Fragrances",
+    "Brand": "Calvin Klein",
+    "QuantityInStock": 27
+  },
+  {
+    "Name": "Insulated Water Bottle",
+    "Description": "A reusable insulated bottle designed to keep drinks cold or hot for hours, with a leak-resistant lid and durable stainless-steel body.",
+    "Price": 24.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?auto=format&fit=crop&w=900&q=80",
+    "Type": "Drinkware",
+    "Brand": "Hydro Flask",
+    "QuantityInStock": 54
+  },
+  {
+    "Name": "Ergonomic Lounge Chair",
+    "Description": "A modern lounge chair with a supportive back, comfortable seat, and minimalist profile suitable for living rooms and reading areas.",
+    "Price": 219.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1503602642458-232111445657?auto=format&fit=crop&w=900&q=80",
+    "Type": "Furniture",
+    "Brand": "IKEA",
+    "QuantityInStock": 11
+  },
+  {
+    "Name": "Modern Living Room Sofa",
+    "Description": "A contemporary sofa with deep seating, soft upholstery, and a neutral design that fits modern living rooms and family spaces.",
+    "Price": 799.0,
+    "PictureUrl": "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?auto=format&fit=crop&w=900&q=80",
+    "Type": "Furniture",
+    "Brand": "Ashley",
+    "QuantityInStock": 7
+  },
+  {
+    "Name": "Minimal Home Desk",
+    "Description": "A clean and functional desk with a spacious work surface, suitable for home offices, studying, and computer setups.",
+    "Price": 179.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1593642532400-2682810df593?auto=format&fit=crop&w=900&q=80",
+    "Type": "Furniture",
+    "Brand": "IKEA",
+    "QuantityInStock": 14
+  },
+  {
+    "Name": "Kitchen Cookware Set",
+    "Description": "A practical cookware set for everyday food preparation, featuring durable pots and pans suitable for common home cooking tasks.",
+    "Price": 149.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1556911220-bff31c812dba?auto=format&fit=crop&w=900&q=80",
+    "Type": "Kitchen",
+    "Brand": "T-fal",
+    "QuantityInStock": 20
+  },
+  {
+    "Name": "Ceramic Coffee Mug",
+    "Description": "A durable ceramic coffee mug with a comfortable handle, ideal for coffee, tea, hot chocolate, and daily office use.",
+    "Price": 12.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?auto=format&fit=crop&w=900&q=80",
+    "Type": "Drinkware",
+    "Brand": "Corelle",
+    "QuantityInStock": 73
+  },
+  {
+    "Name": "Decorative Table Lamp",
+    "Description": "A modern decorative lamp that provides soft ambient lighting for bedrooms, living rooms, offices, and reading corners.",
+    "Price": 54.99,
+    "PictureUrl": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=900&q=80",
+    "Type": "Lighting",
+    "Brand": "Philips",
+    "QuantityInStock": 29
+  }
+]
