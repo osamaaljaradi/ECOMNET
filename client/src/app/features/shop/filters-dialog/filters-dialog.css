@@ -1,0 +1,11 @@
+.dialog-cotent{
+  max-height: 60vh;
+  overflow-y: auto;
+  min-width: 500px;
+}
+@media(max-width: 600px){
+  .dialog-cotent{
+  min-height: auto;
+    width: 100%;
+}
+}

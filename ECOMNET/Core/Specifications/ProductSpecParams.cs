@@ -30,13 +30,13 @@ namespace Core.Specifications
 			}
 		}
 
-        private List<string> _type = [];
-        public List<string> Type
+        private List<string> _types = [];
+        public List<string> Types
         {
-            get => _type;
+            get => _types;
             set
             {
-                _type = value.SelectMany(x => x.Split(',',
+                _types = value.SelectMany(x => x.Split(',',
                     StringSplitOptions.RemoveEmptyEntries)).ToList();
             }
         }
