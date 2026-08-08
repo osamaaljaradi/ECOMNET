@@ -5,7 +5,7 @@ import { Shop } from "./features/shop/shop";
 
 @Component({
   selector: 'app-root',
-  imports: [Header, Shop],
+  imports: [RouterOutlet,Header],
   templateUrl: './app.html',
   styleUrl: './app.css'
 })
