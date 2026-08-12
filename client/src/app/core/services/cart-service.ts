@@ -33,7 +33,6 @@ export class CartService {
   getCart(id: string){
     return this.http.get<Cart>(this.baseUrl + 'cart?id=' + id).pipe(
       map(cart => {
-        debugger;
         this.cart.set(cart);
         return cart;
       })
